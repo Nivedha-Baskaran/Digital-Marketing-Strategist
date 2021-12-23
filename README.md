@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Nivedha Baskaran
+
+[Certified Digital Marketing Expert](https://nivedha-baskaran.com/)
 
 You can use the [editor on GitHub](https://github.com/Nivedha-Baskaran/Digital-Marketing-Strategist/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
